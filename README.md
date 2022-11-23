@@ -37,7 +37,7 @@
 <br/>
 
 <summary> :bulb: Github Stats </summary>
-<img src="https://streak-stats.demolab.com?user=alpaygurogluods&theme=radical)](https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=alpaygurogluods&theme=radical">
 
 
 
