@@ -37,7 +37,7 @@
 <br/>
 
 <summary> :bulb: Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=alpaygurogluods&count_private=false&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=alpaygurogluods&count_private=true&theme=radical">
 
 
 
