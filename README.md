@@ -37,7 +37,7 @@
 <br/>
 <details> 
 <summary> :bulb: Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=aalpaygurogluods">
+<img src="https://github-readme-stats.vercel.app/api?username=alpaygurogluods">
 </details>
 <details> 
 <summary> :bulb: Most Used Languages </summary>
