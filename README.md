@@ -35,14 +35,11 @@
 
 <br/>
 <br/>
-<details> 
+
 <summary> :bulb: Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=alpaygurogluods&count_private=true&theme=radical">
-</details>
-<details> 
-<summary> :bulb: Most Used Languages </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpaygurogluods&langs_count=8">
-</details>
+
+
 
 [youtube]: https://www.youtube.com/channel/UCr7ID6adCzeurT4_gCjK9OA
 [twitter]: https://twitter.com/asimolpiq
